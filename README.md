@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrajunDhungana
-- 👀 I’m interested in sports,Cybersecurity And  military 
-- 🌱 I’m currently learning Geo political,cricket,programming;C++,C,blockchain,Java ,javascript
+- 👀 I’m interested in Cybersecurity And Millatry TEchs
+- 🌱 I’m currently learning programming;C++,C,blockchain,Java ,javascript and Penetration
 - 
 - 📫 How to reach me prajundhungana0707@gmail.com
   
