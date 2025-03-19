@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PrajunDhungana
-- 👀 I’m interested in Cybersecurity And Millatry TEchs
-- 🌱 I’m currently learning programming;C++,C,Java ,javascript ,c#and Penetration
+- 👀 Cybersecurity  & Tech Enthusiast
+- 🌱 I’m exceptional at programming;C++,C,Java ,javascript ,c#and Penetration
 - 
 - 📫 How to reach me prajundhungana0707@gmail.com
+- 
   
 
 <!---
